@@ -3,10 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca1137a-192c-42c4-ab28-2a8b5d8e8549" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/components/CustomerComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/CustomerComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +186,10 @@
       <workItem from="1582790731577" duration="172000" />
       <workItem from="1586699869645" duration="1166000" />
       <workItem from="1586703117690" duration="24000" />
-      <workItem from="1586703142638" duration="2015000" />
+      <workItem from="1586703142638" duration="7303000" />
+      <workItem from="1586710693001" duration="19000" />
+      <workItem from="1586710714008" duration="2278000" />
+      <workItem from="1586713039810" duration="12000" />
     </task>
     <servers />
   </component>
@@ -193,10 +197,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586703139654">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1586713049984">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586703139654" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586713049984" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1582388928132">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
