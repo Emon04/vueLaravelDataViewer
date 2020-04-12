@@ -25,6 +25,7 @@
     },
     "dependencies": {
         "install": "^0.13.0",
+        "vform": "^1.0.1",
         "view": "^1.1.1",
         "viewnpm": "^1.0.0",
         "vue-progressbar": "^0.7.5",

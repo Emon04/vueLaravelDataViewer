@@ -8,6 +8,16 @@ require('./bootstrap');
 
 import Vue from 'vue'
 import VueProgressBar from 'vue-progressbar'
+import Vue from 'vue'
+import Snotify, { SnotifyPosition } from 'vue-snotify'
+
+const SnotifyOptions = {
+    toast: {
+        position: SnotifyPosition.rightTop
+    }
+}
+
+Vue.use(Snotify, SnotifyOptions)
 
 const VueProgressBarOptions = {
     color: '#50d38a',

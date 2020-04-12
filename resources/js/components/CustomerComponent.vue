@@ -82,6 +82,12 @@
            </div>
        </div>
        <vue-progress-bar></vue-progress-bar>
+       <template>
+           <div>
+               <h1>My app!</h1>
+               <vue-snotify></vue-snotify>
+           </div>
+       </template>
    </div>
 </template>
 
