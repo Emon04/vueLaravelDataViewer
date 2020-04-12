@@ -27,6 +27,7 @@
         "install": "^0.13.0",
         "view": "^1.1.1",
         "viewnpm": "^1.0.0",
-        "vue-progressbar": "^0.7.5"
+        "vue-progressbar": "^0.7.5",
+        "vue-snotify": "^3.2.1"
     }
 }
